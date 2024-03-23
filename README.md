@@ -1,7 +1,5 @@
 # DATA-SCIENCE-PROJECTS
 
-# DATA-SCIENCE-PROJECTS
-
 ## Overview:
 Welcome to the end-to-end data science project repository! Here, you'll find a comprehensive project that follows the PACE Strategy, consisting of Planning, Analyzing, Constructing, and Executing stages. This framework ensures a structured approach to solving real-world problems using data-driven insights.
 
